@@ -3,4 +3,3 @@ Este es un repositorio para subir nuestra pagina web y conectarla de manera corr
 
 Neiza se ha unido al proyecto
 
-cosa
